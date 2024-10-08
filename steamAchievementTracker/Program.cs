@@ -47,11 +47,23 @@ namespace steamAchievementTracker
         {
             using (var client = new HttpClient())
             {
-                string url = $"http://api.steampowered.com/ISteamUserStats/GetPlayerAchievements/v0001/?appid={appId}&steamid={steamId}&key={apiKey}";
+                //string url = $"http://api.steampowered.com/ISteamUserStats/GetPlayerAchievements/v0001/?appid={appId}&steamid={steamId}&key={apiKey}"; //use this for player info
+                string url = $"https://api.steampowered.com/ISteamUserStats/GetSchemaForGame/v2/?key={apiKey}&appid={appId}"; //use this from game info
                 var response = await client.GetAsync(url);
                 response.EnsureSuccessStatusCode();
                 return await response.Content.ReadAsStringAsync();
             }
+        }
+        //method to parse data from string and send back
+        public (string, string) achievementParse(string achievementsStringParse)
+        {
+            string achievementParseFirst, achievementParseLast;
+            string[] splitData = achievementsStringParse.Split('[');
+            achievementParseFirst = splitData[0];
+            achievementParseLast = splitData[1];
+
+
+            return (achievementParseFirst, achievementParseLast);
         }
     }
 

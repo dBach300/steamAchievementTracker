@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\Mystify\\source\\repos\\steamAchievementTracker\\steamAchievementTracker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E0D10354-E434-4038-8D1B-92E898DFA727}|steamAchievementTracker.csproj|C:\\Users\\Mystify\\source\\repos\\steamAchievementTracker\\steamAchievementTracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0D10354-E434-4038-8D1B-92E898DFA727}|steamAchievementTracker.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E0D10354-E434-4038-8D1B-92E898DFA727}|steamAchievementTracker.csproj|C:\\Users\\Mystify\\source\\repos\\steamAchievementTracker\\steamAchievementTracker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0D10354-E434-4038-8D1B-92E898DFA727}|steamAchievementTracker.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0D10354-E434-4038-8D1B-92E898DFA727}|steamAchievementTracker.csproj|c:\\users\\mystify\\source\\repos\\steamachievementtracker\\steamachievementtracker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E0D10354-E434-4038-8D1B-92E898DFA727}|steamAchievementTracker.csproj|c:\\users\\mystify\\source\\repos\\steamachievementtracker\\steamachievementtracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0D10354-E434-4038-8D1B-92E898DFA727}|steamAchievementTracker.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D10354-E434-4038-8D1B-92E898DFA727}|steamAchievementTracker.csproj|C:\\Users\\Mystify\\source\\repos\\steamAchievementTracker\\steamAchievementTracker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E0D10354-E434-4038-8D1B-92E898DFA727}|steamAchievementTracker.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -22,30 +22,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Mystify\\source\\repos\\steamAchievementTracker\\steamAchievementTracker\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Mystify\\source\\repos\\steamAchievementTracker\\steamAchievementTracker\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAwwCwAAACCAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Mystify\\source\\repos\\steamAchievementTracker\\steamAchievementTracker\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAswEEAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-21T03:27:47.733Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Mystify\\source\\repos\\steamAchievementTracker\\steamAchievementTracker\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Mystify\\source\\repos\\steamAchievementTracker\\steamAchievementTracker\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBYAAAA+AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Mystify\\source\\repos\\steamAchievementTracker\\steamAchievementTracker\\Form1.cs*",
+              "RelativeToolTip": "Form1.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwCIAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-21T03:26:16.976Z",
               "EditorCaption": ""
@@ -56,8 +56,8 @@
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Mystify\\source\\repos\\steamAchievementTracker\\steamAchievementTracker\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Mystify\\source\\repos\\steamAchievementTracker\\steamAchievementTracker\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\Mystify\\source\\repos\\steamAchievementTracker\\steamAchievementTracker\\Form1.cs [Design]*",
+              "RelativeToolTip": "Form1.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-21T03:25:38.523Z",
               "EditorCaption": " [Design]"

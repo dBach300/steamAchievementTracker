@@ -1,0 +1,13 @@
+C:\Users\Mystify\source\repos\steamAchievementTracker\steamAchievementTracker\bin\Debug\steamAchievementTracker.exe.config
+C:\Users\Mystify\source\repos\steamAchievementTracker\steamAchievementTracker\bin\Debug\steamAchievementTracker.exe
+C:\Users\Mystify\source\repos\steamAchievementTracker\steamAchievementTracker\bin\Debug\steamAchievementTracker.pdb
+C:\Users\Mystify\source\repos\steamAchievementTracker\steamAchievementTracker\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mystify\source\repos\steamAchievementTracker\steamAchievementTracker\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mystify\source\repos\steamAchievementTracker\steamAchievementTracker\obj\Debug\steamAchievementTracker.csproj.AssemblyReference.cache
+C:\Users\Mystify\source\repos\steamAchievementTracker\steamAchievementTracker\obj\Debug\steamAchievementTracker.Form1.resources
+C:\Users\Mystify\source\repos\steamAchievementTracker\steamAchievementTracker\obj\Debug\steamAchievementTracker.Properties.Resources.resources
+C:\Users\Mystify\source\repos\steamAchievementTracker\steamAchievementTracker\obj\Debug\steamAchievementTracker.csproj.GenerateResource.cache
+C:\Users\Mystify\source\repos\steamAchievementTracker\steamAchievementTracker\obj\Debug\steamAchievementTracker.csproj.CoreCompileInputs.cache
+C:\Users\Mystify\source\repos\steamAchievementTracker\steamAchievementTracker\obj\Debug\steamAch.9B49BD9C.Up2Date
+C:\Users\Mystify\source\repos\steamAchievementTracker\steamAchievementTracker\obj\Debug\steamAchievementTracker.exe
+C:\Users\Mystify\source\repos\steamAchievementTracker\steamAchievementTracker\obj\Debug\steamAchievementTracker.pdb
