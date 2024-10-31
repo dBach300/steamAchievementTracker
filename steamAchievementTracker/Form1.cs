@@ -32,7 +32,7 @@ namespace steamAchievementTracker
                 // Deserialize
                 AchievementsResponse achievements = JsonConvert.DeserializeObject<AchievementsResponse>(achievementsJson);
                 (string, string) achievementsStringParse = steamApi.achievementParse(achievementsJson);
-                MessageBox.Show($"{achievementsStringParse.Item1}\n{achievementsStringParse.Item2}");
+                //MessageBox.Show($"{achievementsStringParse.Item1}\n{achievementsStringParse.Item2}");
             }
             catch (Exception ex)
             {

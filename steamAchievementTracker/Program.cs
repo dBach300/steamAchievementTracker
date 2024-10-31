@@ -61,7 +61,19 @@ namespace steamAchievementTracker
             string[] splitData = achievementsStringParse.Split('[');
             achievementParseFirst = splitData[0];
             achievementParseLast = splitData[1];
-
+            splitData = achievementParseLast.Split('{');
+            
+            foreach (string str in splitData)
+            {
+                if (str.Contains("\"hidden\":1"))
+                {
+                    Console.WriteLine("hidden");
+                }
+                else
+                {
+                    Console.WriteLine(str);
+                }
+            }
 
             return (achievementParseFirst, achievementParseLast);
         }
